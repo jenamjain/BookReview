@@ -28,8 +28,9 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
-    "your-service-name.onrender.com",
+    "bookreview-hwmq.onrender.com"
 ]
+
 
 
 
